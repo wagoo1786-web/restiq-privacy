@@ -139,8 +139,8 @@ Your continued use of the App after changes constitutes acceptance of the update
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** [YOUR_EMAIL_HERE]
-**Website:** [YOUR_WEBSITE_HERE]
+**Email:** [wagoo1786@gmail.com]
+**Website:** [https://github.com/wagoo1786-web/restiq-privacy]
 
 ---
 
